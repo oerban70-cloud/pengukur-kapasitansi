@@ -8,7 +8,7 @@ kapasitor elektrolit yang dicurigai kering, atau sekadar tahu nilai
 kapasitor tanpa label di laci komponenmu.
 
 Video penjelasan (60 detik):
-link menyusul setelah upload
+https://www.youtube.com/shorts/i9S3SN7a2y4
 
 ## Komponen
 
